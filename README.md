@@ -1,6 +1,6 @@
 # GDP
 
-> All my Godot addons toolboxes that are not for XR.
+> Eloi Godot addons (no XR)
 
 **License: Beerware**:   
 [<img width="507" height="275" alt="image" src="https://github.com/user-attachments/assets/4c06e8b1-9b3d-4afc-8d09-41d9b61936d3" />](https://buymeacoffee.com/apintio)  
