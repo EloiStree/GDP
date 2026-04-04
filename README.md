@@ -1,3 +1,7 @@
+[UPM](https://github.com/EloiStree/UPM) | [XR](https://github.com/EloiStree/UPMXR) | [GDP](https://github.com/EloiStree/GDP) | [XR](https://github.com/EloiStree/GDPXR)
+
+-----------------
+
 # GDP
 
 > Eloi Godot addons (no XR)
