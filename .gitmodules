@@ -1,3 +1,114 @@
 [submodule "addons/2025_10_18_gdp_hello_godot_script"]
 	path = addons/2025_10_18_gdp_hello_godot_script
 	url = https://github.com/EloiStree/2025_10_18_gdp_hello_godot_script.git
+[submodule "addons/2025_11_11_gdp_wow_int"]
+	path = addons/2025_11_11_gdp_wow_int
+	url = https://github.com/EloiStree/2025_11_11_gdp_wow_int.git
+[submodule "addons/2025_11_04_gdp_point_to_point_map"]
+	path = addons/2025_11_04_gdp_point_to_point_map
+	url = https://github.com/EloiStree/2025_11_04_gdp_point_to_point_map.git
+[submodule "addons/2025_11_01_gdp_artillery_net_bullets"]
+	path = addons/2025_11_01_gdp_artillery_net_bullets
+	url = https://github.com/EloiStree/2025_11_01_gdp_artillery_net_bullets.git
+[submodule "addons/2026_03_30_gdp_croco_color"]
+	path = addons/2026_03_30_gdp_croco_color
+	url = https://github.com/EloiStree/2026_03_30_gdp_croco_color.git
+[submodule "addons/2026_03_23_gdp_terminal_in_out"]
+	path = addons/2026_03_23_gdp_terminal_in_out
+	url = https://github.com/EloiStree/2026_03_23_gdp_terminal_in_out.git
+[submodule "addons/2026_03_23_gdp_micro_bit_sensor"]
+	path = addons/2026_03_23_gdp_micro_bit_sensor
+	url = https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor.git
+[submodule "addons/2026_03_23_gdp_github_api_utility"]
+	path = addons/2026_03_23_gdp_github_api_utility
+	url = https://github.com/EloiStree/2026_03_23_gdp_github_api_utility.git
+[submodule "addons/2026_03_23_gdp_git_terminal_builder"]
+	path = addons/2026_03_23_gdp_git_terminal_builder
+	url = https://github.com/EloiStree/2026_03_23_gdp_git_terminal_builder.git
+[submodule "addons/2026_03_23_gdp_adb_terminal_builder"]
+	path = addons/2026_03_23_gdp_adb_terminal_builder
+	url = https://github.com/EloiStree/2026_03_23_gdp_adb_terminal_builder.git
+[submodule "addons/2026_03_23_gdp_scrcpy_terminal_builder"]
+	path = addons/2026_03_23_gdp_scrcpy_terminal_builder
+	url = https://github.com/EloiStree/2026_03_23_gdp_scrcpy_terminal_builder.git
+[submodule "addons/2026_03_23_gdp_ffmpeg_terminal_builder"]
+	path = addons/2026_03_23_gdp_ffmpeg_terminal_builder
+	url = https://github.com/EloiStree/2026_03_23_gdp_ffmpeg_terminal_builder.git
+[submodule "addons/2026_02_22_gdp_3d_macro_partition"]
+	path = addons/2026_02_22_gdp_3d_macro_partition
+	url = https://github.com/EloiStree/2026_02_22_gdp_3d_macro_partition.git
+[submodule "addons/2026_01_18_gdp_nes_controller_udp"]
+	path = addons/2026_01_18_gdp_nes_controller_udp
+	url = https://github.com/EloiStree/2026_01_18_gdp_nes_controller_udp.git
+[submodule "addons/2026_03_09_gdp_open_xr_to_measure_pivot"]
+	path = addons/2026_03_09_gdp_open_xr_to_measure_pivot
+	url = https://github.com/EloiStree/2026_03_09_gdp_open_xr_to_measure_pivot.git
+[submodule "addons/2026_03_08_gdp_xr_basic_to_macro"]
+	path = addons/2026_03_08_gdp_xr_basic_to_macro
+	url = https://github.com/EloiStree/2026_03_08_gdp_xr_basic_to_macro.git
+[submodule "addons/2026_03_20_gdp_micro_bit"]
+	path = addons/2026_03_20_gdp_micro_bit
+	url = https://github.com/EloiStree/2026_03_20_gdp_micro_bit.git
+[submodule "addons/2025_11_14_gdp_webcam_to_texture"]
+	path = addons/2025_11_14_gdp_webcam_to_texture
+	url = https://github.com/EloiStree/2025_11_14_gdp_webcam_to_texture.git
+[submodule "addons/2025_09_15_gdp_import_assets_on_quest"]
+	path = addons/2025_09_15_gdp_import_assets_on_quest
+	url = https://github.com/EloiStree/2025_09_15_gdp_import_assets_on_quest.git
+[submodule "addons/2025_06_05_gdp_two_points_quad_loader"]
+	path = addons/2025_06_05_gdp_two_points_quad_loader
+	url = https://github.com/EloiStree/2025_06_05_gdp_two_points_quad_loader.git
+[submodule "addons/2024_10_19_gdp_relocation_rotation"]
+	path = addons/2024_10_19_gdp_relocation_rotation
+	url = https://github.com/EloiStree/2024_10_19_gdp_relocation_rotation.git
+[submodule "addons/2024_10_02_gdp_patoune_race"]
+	path = addons/2024_10_02_gdp_patoune_race
+	url = https://github.com/EloiStree/2024_10_02_gdp_patoune_race.git
+[submodule "addons/2024_06_31_gdp_drone_race_checkpoint"]
+	path = addons/2024_06_31_gdp_drone_race_checkpoint
+	url = https://github.com/EloiStree/2024_06_31_gdp_drone_race_checkpoint.git
+[submodule "addons/2026_02_09_gdp_nes_16_tournament"]
+	path = addons/2026_02_09_gdp_nes_16_tournament
+	url = https://github.com/EloiStree/2026_02_09_gdp_nes_16_tournament.git
+[submodule "addons/2025_12_04_gdp_s2w_int_utility"]
+	path = addons/2025_12_04_gdp_s2w_int_utility
+	url = https://github.com/EloiStree/2025_12_04_gdp_s2w_int_utility.git
+[submodule "addons/2026_01_03_gdp_debug_input_stroke"]
+	path = addons/2026_01_03_gdp_debug_input_stroke
+	url = https://github.com/EloiStree/2026_01_03_gdp_debug_input_stroke.git
+[submodule "addons/2026_01_02_gdp_playto"]
+	path = addons/2026_01_02_gdp_playto
+	url = https://github.com/EloiStree/2026_01_02_gdp_playto.git
+[submodule "addons/2025_12_03_gdp_interactable_index_integer"]
+	path = addons/2025_12_03_gdp_interactable_index_integer
+	url = https://github.com/EloiStree/2025_12_03_gdp_interactable_index_integer.git
+[submodule "addons/2025_10_30_gdp_godot_input_to_iid"]
+	path = addons/2025_10_30_gdp_godot_input_to_iid
+	url = https://github.com/EloiStree/2025_10_30_gdp_godot_input_to_iid.git
+[submodule "addons/2026_01_18_gdp_nes_udp_multiplayer"]
+	path = addons/2026_01_18_gdp_nes_udp_multiplayer
+	url = https://github.com/EloiStree/2026_01_18_gdp_nes_udp_multiplayer.git
+[submodule "addons/2025_01_01_gdp_square_color_telemetry"]
+	path = addons/2025_01_01_gdp_square_color_telemetry
+	url = https://github.com/EloiStree/2025_01_01_gdp_square_color_telemetry.git
+[submodule "addons/2025_10_27_gdp_udp_in_out_gate"]
+	path = addons/2025_10_27_gdp_udp_in_out_gate
+	url = https://github.com/EloiStree/2025_10_27_gdp_udp_in_out_gate.git
+[submodule "addons/2025_10_28_gdp_trusted_websocket"]
+	path = addons/2025_10_28_gdp_trusted_websocket
+	url = https://github.com/EloiStree/2025_10_28_gdp_trusted_websocket.git
+[submodule "addons/2025_10_31_gdp_warcraft_like_character_move"]
+	path = addons/2025_10_31_gdp_warcraft_like_character_move
+	url = https://github.com/EloiStree/2025_10_31_gdp_warcraft_like_character_move.git
+[submodule "addons/2025_11_18_gdp_single_player_checkpoint"]
+	path = addons/2025_11_18_gdp_single_player_checkpoint
+	url = https://github.com/EloiStree/2025_11_18_gdp_single_player_checkpoint.git
+[submodule "addons/2025_11_21_gdp_10_seconds_ninja_like"]
+	path = addons/2025_11_21_gdp_10_seconds_ninja_like
+	url = https://github.com/EloiStree/2025_11_21_gdp_10_seconds_ninja_like.git
+[submodule "addons/2025_11_21_gdp_int_s2w_input_multiplayer"]
+	path = addons/2025_11_21_gdp_int_s2w_input_multiplayer
+	url = https://github.com/EloiStree/2025_11_21_gdp_int_s2w_input_multiplayer.git
+[submodule "addons/2026_02_19_gdp_nes_int_multi_brackeys_2d"]
+	path = addons/2026_02_19_gdp_nes_int_multi_brackeys_2d
+	url = https://github.com/EloiStree/2026_02_19_gdp_nes_int_multi_brackeys_2d.git
