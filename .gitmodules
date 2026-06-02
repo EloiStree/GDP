@@ -73,9 +73,6 @@
 [submodule "addons/2025_12_04_gdp_s2w_int_utility"]
 	path = addons/2025_12_04_gdp_s2w_int_utility
 	url = https://github.com/EloiStree/2025_12_04_gdp_s2w_int_utility.git
-[submodule "addons/2026_01_03_gdp_debug_input_stroke"]
-	path = addons/2026_01_03_gdp_debug_input_stroke
-	url = https://github.com/EloiStree/2026_01_03_gdp_debug_input_stroke.git
 [submodule "addons/2026_01_02_gdp_playto"]
 	path = addons/2026_01_02_gdp_playto
 	url = https://github.com/EloiStree/2026_01_02_gdp_playto.git
