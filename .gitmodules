@@ -112,3 +112,12 @@
 [submodule "addons/2026_02_19_gdp_nes_int_multi_brackeys_2d"]
 	path = addons/2026_02_19_gdp_nes_int_multi_brackeys_2d
 	url = https://github.com/EloiStree/2026_02_19_gdp_nes_int_multi_brackeys_2d.git
+[submodule "addons/2025_04_15_gdp_kid_toy_ovni_code"]
+	path = addons/2025_04_15_gdp_kid_toy_ovni_code
+	url = https://github.com/EloiStree/2025_04_15_gdp_kid_toy_ovni_code.git
+[submodule "addons/2024_08_05_gdp_uv_drawable_drones"]
+	path = addons/2024_08_05_gdp_uv_drawable_drones
+	url = https://github.com/EloiStree/2024_08_05_gdp_uv_drawable_drones.git
+[submodule "addons/2024_09_15_gdp_uv_drawable_controller"]
+	path = addons/2024_09_15_gdp_uv_drawable_controller
+	url = https://github.com/EloiStree/2024_09_15_gdp_uv_drawable_controller.git
