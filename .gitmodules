@@ -16,9 +16,6 @@
 [submodule "addons/2026_03_23_gdp_terminal_in_out"]
 	path = addons/2026_03_23_gdp_terminal_in_out
 	url = https://github.com/EloiStree/2026_03_23_gdp_terminal_in_out.git
-[submodule "addons/2026_03_23_gdp_micro_bit_sensor"]
-	path = addons/2026_03_23_gdp_micro_bit_sensor
-	url = https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor.git
 [submodule "addons/2026_03_23_gdp_github_api_utility"]
 	path = addons/2026_03_23_gdp_github_api_utility
 	url = https://github.com/EloiStree/2026_03_23_gdp_github_api_utility.git
