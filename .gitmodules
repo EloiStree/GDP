@@ -121,3 +121,57 @@
 [submodule "addons/2024_09_15_gdp_uv_drawable_controller"]
 	path = addons/2024_09_15_gdp_uv_drawable_controller
 	url = https://github.com/EloiStree/2024_09_15_gdp_uv_drawable_controller.git
+[submodule "addons/2026_05_19_gdp_gizmo_debug"]
+	path = addons/2026_05_19_gdp_gizmo_debug
+	url = https://github.com/EloiStree/2026_05_19_gdp_gizmo_debug.git
+[submodule "addons/2026_05_20_gdp_roll_pitch_yaw"]
+	path = addons/2026_05_20_gdp_roll_pitch_yaw
+	url = https://github.com/EloiStree/2026_05_20_gdp_roll_pitch_yaw.git
+[submodule "addons/2026_05_22_gdp_quad_painting"]
+	path = addons/2026_05_22_gdp_quad_painting
+	url = https://github.com/EloiStree/2026_05_22_gdp_quad_painting.git
+[submodule "addons/2026_05_21_gdp_area_for_xr"]
+	path = addons/2026_05_21_gdp_area_for_xr
+	url = https://github.com/EloiStree/2026_05_21_gdp_area_for_xr.git
+[submodule "addons/2026_05_22_gdp_modding_lab"]
+	path = addons/2026_05_22_gdp_modding_lab
+	url = https://github.com/EloiStree/2026_05_22_gdp_modding_lab.git
+[submodule "addons/2026_05_09_gdp_esp32s3_webcam"]
+	path = addons/2026_05_09_gdp_esp32s3_webcam
+	url = https://github.com/EloiStree/2026_05_09_gdp_esp32s3_webcam.git
+[submodule "addons/2026_04_11_gdp_learn_with_sensors"]
+	path = addons/2026_04_11_gdp_learn_with_sensors
+	url = https://github.com/EloiStree/2026_04_11_gdp_learn_with_sensors.git
+[submodule "addons/2026_04_12_gdp_nerf_dart"]
+	path = addons/2026_04_12_gdp_nerf_dart
+	url = https://github.com/EloiStree/2026_04_12_gdp_nerf_dart.git
+[submodule "addons/2026_04_12_gdp_vibed_laser_cut_shader"]
+	path = addons/2026_04_12_gdp_vibed_laser_cut_shader
+	url = https://github.com/EloiStree/2026_04_12_gdp_vibed_laser_cut_shader.git
+[submodule "addons/2026_04_16_gdps_learn_bit_and_code"]
+	path = addons/2026_04_16_gdps_learn_bit_and_code
+	url = https://github.com/EloiStree/2026_04_16_gdps_learn_bit_and_code.git
+[submodule "addons/2026_04_27_gdp_oled_128x64"]
+	path = addons/2026_04_27_gdp_oled_128x64
+	url = https://github.com/EloiStree/2026_04_27_gdp_oled_128x64.git
+[submodule "addons/2026_03_20_gdp_hello_micro_bit"]
+	path = addons/2026_03_20_gdp_hello_micro_bit
+	url = https://github.com/EloiStree/2026_03_20_gdp_hello_micro_bit.git
+[submodule "addons/2026_04_27_gdp_oled_128x64_sample"]
+	path = addons/2026_04_27_gdp_oled_128x64_sample
+	url = https://github.com/EloiStree/2026_04_27_gdp_oled_128x64_sample.git
+[submodule "addons/2026_01_03_gdp_input_to_primitive"]
+	path = addons/2026_01_03_gdp_input_to_primitive
+	url = https://github.com/EloiStree/2026_01_03_gdp_input_to_primitive.git
+[submodule "addons/2024_10_16_gdp_blocks_color"]
+	path = addons/2024_10_16_gdp_blocks_color
+	url = https://github.com/EloiStree/2024_10_16_gdp_blocks_color.git
+[submodule "addons/2025_10_19_gdp_kid_toy_skid_steering"]
+	path = addons/2025_10_19_gdp_kid_toy_skid_steering
+	url = https://github.com/EloiStree/2025_10_19_gdp_kid_toy_skid_steering.git
+[submodule "addons/2026_04_11_gdp_pins"]
+	path = addons/2026_04_11_gdp_pins
+	url = https://github.com/EloiStree/2026_04_11_gdp_pins.git
+[submodule "addons/2026_05_29_gdp_xr_ui_lab"]
+	path = addons/2026_05_29_gdp_xr_ui_lab
+	url = https://github.com/EloiStree/2026_05_29_gdp_xr_ui_lab.git
